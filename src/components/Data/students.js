@@ -102,7 +102,7 @@ const teacherObj = [
 const studentObj = [
   {
     id : 1,
-    name : "MuhmmadAli Abdufattoxov",
+    name : "MuxammadAli Abdufattoxov",
     group : [1],
     number : "(95) 151-25-12",
     groupNum : 1,

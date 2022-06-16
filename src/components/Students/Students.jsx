@@ -26,7 +26,7 @@ export default function StudentsItem() {
                 <td className="students__td">
                   <div className="d-flex align-items-center">
                     <div className="students__avabox">
-                      <img className="students__ava" src="https://picsum.photos/id/46/60" alt="user" />
+                      <img className="students__ava" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7NvxS8KHkHlLCkE-fGBMRgiXrSjgrNHWj5gxrOAVQ41-ZwwQ3Gu3n8z0hNiqAyfUbA8&usqp=CAU" alt="user" />
                     </div>
                     <h3 className="students__names">{item.name}</h3>
                   </div>

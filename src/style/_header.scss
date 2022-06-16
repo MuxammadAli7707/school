@@ -36,12 +36,13 @@
     background:none;
     border: none;
     font-size: 24px;
-    color: rgba(0, 0, 0, 0.527);
+    color: #BCBCCB;
     margin-right: 20px;
+    position: relative;
   }
 
   &__box {
-    border-left: 1px solid rgba(0, 0, 0, 0.527);
+    border-left: 1px solid #BCBCCB;
     padding: 5px 10px;
   }
 
@@ -68,5 +69,8 @@
     width: 100%;
     object-fit: cover;
   }
-
+}
+.rounded-circle {
+  width: 1px !important;
+  height: 1px !important;
 }

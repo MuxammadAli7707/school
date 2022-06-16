@@ -24,7 +24,6 @@ export default function Students() {
         <p className="students__count">1-7 / 33 tadan</p>
 
         <StudentsItem />
-
       </section>
       </main>
     </div>
